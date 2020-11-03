@@ -1,0 +1,6 @@
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\forza4\obj\Debug\Connect4TheWin.Form1.resources
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\forza4\obj\Debug\Connect4TheWin.Form2.resources
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\forza4\obj\Debug\Connect4TheWin.Resources.resources
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\forza4\obj\Debug\c4tw.vbproj.GenerateResource.cache
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\forza4\obj\Debug\c4tw.vbproj.CoreCompileInputs.cache
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\forza4\obj\Debug\c4tw.vbprojAssemblyReference.cache

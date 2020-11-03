@@ -1,0 +1,13 @@
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\bin\Debug\Connect4TheWin.exe.config
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\bin\Debug\Connect4TheWin.exe
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\bin\Debug\Connect4TheWin.pdb
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\bin\Debug\Connect4TheWin.xml
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\c4twproj.vbprojAssemblyReference.cache
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\Connect4TheWin.Form1.resources
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\Connect4TheWin.Form2.resources
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\Connect4TheWin.Resources.resources
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\c4twproj.vbproj.GenerateResource.cache
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\c4twproj.vbproj.CoreCompileInputs.cache
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\Connect4TheWin.exe
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\Connect4TheWin.xml
+C:\Users\N4NN3SC0\Documents\Connect-fo(u)r-the-win\C4TW\obj\Debug\Connect4TheWin.pdb
