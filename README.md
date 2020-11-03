@@ -18,5 +18,5 @@ At the startup is required also an Internet Connetion.
 
 # Why this name?
 Connect 4 The Win stands for:
-**Connect four** The Win
-Connect **for the win**
+* **Connect four** The Win
+* Connect **for the win**
