@@ -2,7 +2,7 @@
 ![Logo](Resources/C4TWstartup.png)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](LICENSE)
 
-# Connect-4-the-win
+# Connect4TheWin Game
 "Connect Fo(u)r the win" is an open source game written in VisualBasic.NET
 
 
