@@ -16,7 +16,7 @@ To launch this game is required a Computer who has Windows XP SP3 or better and 
 At the startup is required also an Internet Connetion.
 
 
-# Why this name?
+# Why this name??
 Connect 4 The Win stands for:
 * **Connect four** The Win
 * Connect **for the win**
